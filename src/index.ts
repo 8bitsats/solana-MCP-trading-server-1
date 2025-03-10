@@ -14,7 +14,7 @@ import fetch from 'node-fetch';
 
 // Constants
 const JUPITER_QUOTE_API = 'https://quote-api.jup.ag/v6';
-const DEFAULT_RPC = 'https://mainnet.helius-rpc.com/?api-key=1771237b-e3a5-49cb-b190-af95b2113788';
+const DEFAULT_RPC = 'HELIUS RPC HERe';
 
 type Arguments = Record<string, unknown>;
 
