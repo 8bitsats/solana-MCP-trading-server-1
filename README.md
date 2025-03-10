@@ -1,5 +1,7 @@
 # Solana Trading Server
 
+[![smithery badge](https://smithery.ai/badge/@8bitsats/solanatradingserver)](https://smithery.ai/server/@8bitsats/solanatradingserver)
+
 An MCP server that provides Solana token trading capabilities through Jupiter DEX aggregator.
 
 ## Features
@@ -9,6 +11,14 @@ An MCP server that provides Solana token trading capabilities through Jupiter DE
 - Get swap quotes with customizable slippage
 - Execute token swaps
 - Transaction status tracking
+
+## Installing via Smithery
+
+To install solanatradingserver for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@8bitsats/solanatradingserver):
+
+```bash
+npx -y @smithery/cli install @8bitsats/solanatradingserver --client claude
+```
 
 ## Running Locally
 
